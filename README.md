@@ -21,4 +21,7 @@ La aplicación permite a los usuarios analizar tendencias de precios, comparar v
    git clone https://github.com/Jhony042915/My-New-Repo.git
    cd My-New-Repo
 
+## 🌐 URL de la aplicación desplegada  
+Accede a la aplicación en el siguiente enlace:  
+🔗 [Mi aplicación en Render](https://my-new-repo-s9xw.onrender.com)
 
